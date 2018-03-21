@@ -1,0 +1,28 @@
+$ notepad l1.txt
+$ git commit -m "modify l1.txt"
+$ git remote add origin https://github.com/zkovacev/git-real1.git
+$ git push -u origin master
+$ notepad l1.txt
+$ git checkout -- l1.txt
+$ git status
+$ git pull
+$ ls
+$ cat l1.txt
+$ git log
+$ git branch
+$ git branch loggin
+$ git branch
+$ git checkout loggin
+$ git branch
+$ git log >> log.txt
+$ git add log.txt
+$ git commit -m "loggin"
+$ git push 
+$ git push --set-upstream origin loggin
+$ git checkout master
+$ git merge loggin
+$ git log
+$ git branch
+$ git push 
+$ git branch allcomands
+$ notepad commands.txt
