@@ -1,0 +1,11 @@
+commit 1e4b423cf388dfd2f2d183ca5730b2fd02a68043
+Author: zkovacev <zoki.kovacev@gmail.com>
+Date:   Wed Mar 21 14:26:19 2018 +0100
+
+    modify l1.txt
+
+commit 3fbe5edee631c31b29f3d39eb15f6593a305183b
+Author: zkovacev <zoki.kovacev@gmail.com>
+Date:   Wed Mar 21 14:23:52 2018 +0100
+
+    Initial commit
